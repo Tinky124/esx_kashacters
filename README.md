@@ -22,3 +22,5 @@ Pour modifier le texte de l'interface : esx_kashacters/html/ui.html:16
           
    ===== Credit : https://github.com/KASHZIN/kashacters =====
                  ! == Im not the owner == !
+                 
+Je vous laisse chercher comment le faire fonctionner, comment le configurer etc...
