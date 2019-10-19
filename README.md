@@ -18,3 +18,6 @@ Pour modifier le texte de l'interface : esx_kashacters/html/ui.html:16
                 <p class="HDL2">Choix du personnage</p>
                 <p class="HDL3">discord.gg/</p>
             </div>'
+           
+          
+   ===== Credit : https://github.com/KASHZIN/kashacters =====
