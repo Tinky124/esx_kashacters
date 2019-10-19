@@ -1,6 +1,8 @@
 # esx_kashacters
 esx_kashacters, 2 personnages + style custom + notification au chargement du personnage.
 
+Download -> https://github.com/GarfieldeuhV1/esx_kashacters/releases/download/v1.1/esx_kashacters.zip
+
 Preview :
 
   Interface du choix de personnages : https://prnt.sc/plh09e
