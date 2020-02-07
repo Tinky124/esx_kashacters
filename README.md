@@ -1,4 +1,4 @@
-# esx_kashacters, 2 personnages + style custom + notification au chargement du personnage.
+# Esx_kashacters, 2 personnages + style custom + notification au chargement du personnage.
 
 Preview :
 
